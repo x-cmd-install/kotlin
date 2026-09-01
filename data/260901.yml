@@ -1,0 +1,78 @@
+about:
+  description: The Kotlin Programming Language. 
+  license: NOASSERTION
+  homepage: https://kotlinlang.org
+  head: 8acf322
+  archived: false
+  latestVersion: v2.4.20-RC2
+  collectedAt: 2026-09-01T05:16:58Z
+timeline:
+  created: 2012-02-13
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-26
+popularity:
+  star: 53370
+  watcher: 1489
+  fork: 6402
+  release: 301
+  contributor: 893
+  pullRequest: 3965
+  issue: 0
+language:
+  Kotlin: 99017092
+  Java: 5075965
+  C: 2095170
+  C++: 1951521
+  Objective-C++: 197279
+  Python: 57039
+  Swift: 55399
+  Lex: 53049
+  Shell: 46662
+  JavaScript: 37216
+  ANTLR: 28595
+  Objective-C: 24816
+  Batchfile: 12398
+  Dockerfile: 10761
+  Ruby: 8088
+  Puppet: 1698
+  CMake: 1377
+  Groovy: 1050
+  Roff: 725
+  HTML: 676
+  Makefile: 243
+  CSS: 82
+  Scala: 80
+totalLine: 108676981
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 445
+    openPR: 143
+    closedIssue: 0
+    openIssue: 0
+    commit: 826
+  last90d:
+    since: 2026-06-03
+    release: 8
+    mergedPR: 1311
+    openPR: 222
+    closedIssue: 0
+    openIssue: 0
+    commit: 3864
+  last180d:
+    since: 2026-03-05
+    release: 17
+    mergedPR: 1651
+    openPR: 246
+    closedIssue: 0
+    openIssue: 0
+    commit: 7314
+  last360d:
+    since: 2025-09-06
+    release: 34
+    mergedPR: 1735
+    openPR: 280
+    closedIssue: 0
+    openIssue: 0
+    commit: 12639
