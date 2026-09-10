@@ -12,7 +12,7 @@ The Kotlin Programming Language.
 x install kotlin
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **3,448,747** 行代码（覆盖前 5 种语言、共 **73656** 个文件）。
 
