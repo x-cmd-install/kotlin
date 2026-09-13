@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 53,397 · **Forks**: 6,412 · **Open issues**: 0 · **Contributors**: 817
+- **Stars**: 53,403 · **Forks**: 6,413 · **Open issues**: 0 · **Contributors**: 817
 
 ## Totals (cumulative)
 
-- **Releases**: 303 · **Merged PRs**: 4047 · **Open PRs**: 406 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 142729
+- **Releases**: 303 · **Merged PRs**: 4047 · **Open PRs**: 409 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 142729
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 3 | 447 | 143 | 0 | 0 | 1007 |
-| last60d | 2026-07-14 | 6 | 1040 | 198 | 0 | 0 | 2519 |
-| 90d | 2026-06-14 | 9 | 1465 | 232 | 0 | 0 | 4124 |
-| last180d | 2026-03-16 | 18 | 1868 | 254 | 0 | 0 | 7549 |
-| 360d | 2025-09-17 | 35 | 1972 | 282 | 0 | 0 | 12930 |
-| last720d | 2024-09-22 | 67 | 1981 | 310 | 0 | 0 | 24859 |
+| 30d | 2026-08-14 | 3 | 429 | 145 | 0 | 0 | 768 |
+| last60d | 2026-07-15 | 5 | 1001 | 200 | 0 | 0 | 2157 |
+| 90d | 2026-06-15 | 9 | 1451 | 234 | 0 | 0 | 3725 |
+| last180d | 2026-03-17 | 17 | 1864 | 257 | 0 | 0 | 7146 |
+| 360d | 2025-09-18 | 35 | 1972 | 285 | 0 | 0 | 12800 |
+| last720d | 2024-09-23 | 67 | 1981 | 313 | 0 | 0 | 24858 |
 
 ## Release assets
 
@@ -97,7 +97,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **63** distros on [repology.org](https://repology.org/project/kotlin). **14** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
+Reported by **63** distros on [repology.org](https://repology.org/project/kotlin). **15** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -119,4 +119,4 @@ Install metadata for kotlin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T03:51:40Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T03:59:29Z._
