@@ -1,15 +1,3 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: kotlin
-  binname: kotlin
-  visiblename: kotlin
-  version: 2.4.20
-  origversion: 2.4.20-1
-  status: newest
-  summary: Statically typed programming language with multiplatform support
-  licenses:
-    - Apache-2.0
-    - custom
 - repo: alt_p11
   srcname: kotlin
   binnames:
@@ -78,6 +66,22 @@
   licenses:
     - Apache-2.0
     - custom
+- repo: gentoo
+  srcname: dev-lang/kotlin-bin
+  visiblename: dev-lang/kotlin-bin
+  version: 2.4.20
+  origversion: null
+  status: newest
+  summary: Statically typed language that targets the JVM and JavaScript
+  maintainers:
+    - xgqt@gentoo.org
+  licenses:
+    - Apache-2.0
+    - BSD
+    - MIT
+    - NPL-1.1
+  categories:
+    - dev-lang
 - repo: homebrew
   srcname: kotlin
   visiblename: kotlin
@@ -85,6 +89,18 @@
   origversion: null
   status: newest
   summary: Statically typed programming language for the JVM
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: kotlin
+  binname: kotlin
+  visiblename: kotlin
+  version: 2.4.20
+  origversion: 2.4.20-1
+  status: newest
+  summary: Statically typed programming language with multiplatform support
+  licenses:
+    - Apache-2.0
+    - custom
 - repo: manjaro_unstable
   subrepo: extra
   srcname: kotlin
@@ -179,6 +195,30 @@
     - Apache-2.0
   categories:
     - Unspecified
+- repo: nix_stable_24_05
+  srcname: kotlin
+  visiblename: kotlin
+  version: 1.9.24
+  origversion: null
+  status: outdated
+  summary: General purpose programming language
+  maintainers:
+    - subhrajyoti12@gmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: kotlin
+  visiblename: kotlin
+  version: 2.0.21
+  origversion: null
+  status: outdated
+  summary: General purpose programming language
+  maintainers:
+    - subhrajyoti12@gmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
 - repo: archpower_powerpc
   srcname: kotlin
   binname: kotlin
@@ -312,26 +352,9 @@
 - repo: gentoo
   srcname: dev-lang/kotlin-bin
   visiblename: dev-lang/kotlin-bin
-  version: 2.4.0
-  origversion: null
-  status: legacy
-  summary: Statically typed language that targets the JVM and JavaScript
-  maintainers:
-    - xgqt@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - MIT
-    - NPL-1.1
-  categories:
-    - dev-lang
-  vulnerable: true
-- repo: gentoo
-  srcname: dev-lang/kotlin-bin
-  visiblename: dev-lang/kotlin-bin
   version: 2.4.10
   origversion: null
-  status: outdated
+  status: legacy
   summary: Statically typed language that targets the JVM and JavaScript
   maintainers:
     - xgqt@gentoo.org
@@ -359,23 +382,6 @@
     - NPL-1.1
   categories:
     - dev-lang
-  vulnerable: true
-- repo: openmandriva_6_0
-  subrepo: main/release
-  srcname: kotlin
-  binnames:
-    - kotlin
-  visiblename: kotlin
-  version: 2.0.21
-  origversion: 2.0.21-1
-  status: outdated
-  summary: Statically typed programming language
-  maintainers:
-    - bero@lindev.ch
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
   vulnerable: true
 - repo: liguros_stable
   srcname: dev-lang/kotlin-bin
@@ -457,30 +463,6 @@
     - Apache-2.0
     - custom
   vulnerable: true
-- repo: nix_stable_24_05
-  srcname: kotlin
-  visiblename: kotlin
-  version: 1.9.24
-  origversion: null
-  status: outdated
-  summary: General purpose programming language
-  maintainers:
-    - subhrajyoti12@gmail.com
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: nix_stable_24_11
-  srcname: kotlin
-  visiblename: kotlin
-  version: 2.0.21
-  origversion: null
-  status: outdated
-  summary: General purpose programming language
-  maintainers:
-    - subhrajyoti12@gmail.com
-  licenses:
-    - Apache-2.0
-  vulnerable: true
 - repo: nix_stable_25_05
   srcname: kotlin
   visiblename: kotlin
@@ -529,6 +511,23 @@
   licenses:
     - Apache-2.0
   vulnerable: true
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: kotlin
+  binnames:
+    - kotlin
+  visiblename: kotlin
+  version: 2.0.21
+  origversion: 2.0.21-1
+  status: outdated
+  summary: Statically typed programming language
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+  vulnerable: true
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: kotlin
@@ -576,7 +575,7 @@
     - Language
   vulnerable: true
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: kotlin
   binnames:
     - kotlin
@@ -593,7 +592,7 @@
     - misc
   vulnerable: true
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: kotlin
   binnames:
     - kotlin
