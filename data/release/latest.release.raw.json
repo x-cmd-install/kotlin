@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 149585,
       "digest": "sha256:9b774fef4344ea705440340c9626c5a76af96a45825909b13ca66fc546a6c8ba",
-      "download_count": 34,
+      "download_count": 38,
       "created_at": "2026-09-07T10:04:30Z",
       "updated_at": "2026-09-07T10:04:30Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-compiler-2.4.20.spdx.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 89729132,
       "digest": "sha256:59e9ca74c7904ef2c122b12114937673ccce68de820a663f0ed66ccf8799e0b7",
-      "download_count": 20624,
+      "download_count": 29124,
       "created_at": "2026-09-07T10:04:25Z",
       "updated_at": "2026-09-07T10:04:29Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-compiler-2.4.20.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:723bf22c9ebb35506e79ee55d3abd198d27df06d75ba02e2cb1b47a861f6ea7f",
-      "download_count": 1918,
+      "download_count": 2352,
       "created_at": "2026-09-07T10:04:29Z",
       "updated_at": "2026-09-07T10:04:30Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-compiler-2.4.20.zip.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13221,
       "digest": "sha256:1cb818ebd56377e299f2186434db98221646da5c3b36df5e57f814b7acce1ec8",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-09-07T10:05:24Z",
       "updated_at": "2026-09-07T10:05:24Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-linux-x86_64-2.4.20.spdx.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 109189839,
       "digest": "sha256:a249c9270ab8fed93f9d54756677b3fa3da652b80791227036231b5869d5d73f",
-      "download_count": 52,
+      "download_count": 61,
       "created_at": "2026-09-07T10:05:18Z",
       "updated_at": "2026-09-07T10:05:23Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-linux-x86_64-2.4.20.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 107393646,
       "digest": "sha256:d6106a9dac8e26d338a0348b2be4a48fb1fd750b3f3da5c2c2bc3fa660d25738",
-      "download_count": 32,
+      "download_count": 34,
       "created_at": "2026-09-07T10:05:24Z",
       "updated_at": "2026-09-07T10:05:29Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-macos-aarch64-2.4.20.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 109052679,
       "digest": "sha256:8d01826d0b085cccd6bd299c29c7e925e3d202e7ea1ec9a12229d751c6426a03",
-      "download_count": 71,
+      "download_count": 83,
       "created_at": "2026-09-07T10:05:30Z",
       "updated_at": "2026-09-07T10:05:35Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-windows-x86_64-2.4.20.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 426,
       "digest": "sha256:87b05fb8672ac3333e6866f007a76c26d3d15ecae49c4d45529693c737122703",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-07T10:04:40Z",
       "updated_at": "2026-09-07T10:04:41Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-linux-x86_64-2.4.20.spdx.json"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 219971249,
       "digest": "sha256:32d33c15c4da668a8d47a0ce2aea95be2c2cf8f5d1d65f6f4ed3697e4686dc7f",
-      "download_count": 185,
+      "download_count": 234,
       "created_at": "2026-09-07T10:04:31Z",
       "updated_at": "2026-09-07T10:04:39Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-linux-x86_64-2.4.20.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:51fe2e771f49594a64a8facfa793ad0951b605a75c14a9d3bb9331bc26b9864d",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-09-07T10:04:40Z",
       "updated_at": "2026-09-07T10:04:40Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-linux-x86_64-2.4.20.tar.gz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 290167116,
       "digest": "sha256:b70d4fd2855fdb054fc9604beaa7de83c18d786454ae948de72a226e81f07dc8",
-      "download_count": 301,
+      "download_count": 330,
       "created_at": "2026-09-07T10:04:42Z",
       "updated_at": "2026-09-07T10:04:51Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-macos-aarch64-2.4.20.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:845855e0d5a3a676cefb4a5ddd9314594e2ef41d2852e6c8a99d0936cb73e9a5",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-07T10:04:52Z",
       "updated_at": "2026-09-07T10:04:52Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-macos-aarch64-2.4.20.tar.gz.sha256"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 287661134,
       "digest": "sha256:eecb7ecd392c092fca216602d468a49d4a820aaab480109d2c9ee104a9d97de3",
-      "download_count": 47,
+      "download_count": 51,
       "created_at": "2026-09-07T10:04:54Z",
       "updated_at": "2026-09-07T10:05:05Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-macos-x86_64-2.4.20.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 437,
       "digest": "sha256:6c3ef6511f83e097977156263bbba8a029bcc37debd8b6950211bb74ec57a5dc",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-07T10:05:17Z",
       "updated_at": "2026-09-07T10:05:18Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-windows-x86_64-2.4.20.spdx.json"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 219888363,
       "digest": "sha256:00e1b0ae0ce135f20db90007208cec3dc7b8c33cd6f489bae84d790349f04d93",
-      "download_count": 226,
+      "download_count": 257,
       "created_at": "2026-09-07T10:05:07Z",
       "updated_at": "2026-09-07T10:05:16Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-windows-x86_64-2.4.20.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:377513305dcca31199e3daa0d891f0b422bf0a3b3a861a2c6fd7f25effdccac1",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-09-07T10:05:17Z",
       "updated_at": "2026-09-07T10:05:17Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-windows-x86_64-2.4.20.zip.sha256"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 189123,
       "digest": "sha256:fb3c105aad14b2893be07c6c2f088dc89ceca9d0663c94b6f1d1a6039d544321",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-09-07T10:06:06Z",
       "updated_at": "2026-09-07T10:06:07Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20/maven-2.4.20-sha256.txt"
