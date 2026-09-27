@@ -14,13 +14,13 @@ x install kotlin
 
 ## Code insight
 
-Total: **3,508,944** lines of code across **74643** files in the top 5 languages.
+Total: **3,510,555** lines of code across **74679** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Kotlin | 2,703,063 | 534,185 | 591,726 | 69283 |
-| Java | 540,337 | 71,627 | 101,229 | 4120 |
-| Json | 59,469 | 0 | 0 | 290 |
+| Kotlin | 2,704,256 | 534,328 | 592,016 | 69319 |
+| Java | 540,357 | 71,627 | 101,232 | 4120 |
+| Json | 59,867 | 0 | 0 | 290 |
 | Swift | 55,003 | 1,040 | 3,369 | 383 |
 | CHeader | 32,247 | 28,044 | 11,105 | 567 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.5.0-Beta1` (2026-09-07)
-- **Last commit**: 2026-09-24
-- **Assets in release**: 25
+- **Last commit**: 2026-09-25
+- **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 53,456 · **Forks**: 6,421 · **Open issues**: 0 · **Contributors**: 844
+- **Stars**: 53,455 · **Forks**: 6,423 · **Open issues**: 0 · **Contributors**: 845
 
 ## Totals (cumulative)
 
-- **Releases**: 304 · **Merged PRs**: 4281 · **Open PRs**: 427 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 144101
+- **Releases**: 304 · **Merged PRs**: 4300 · **Open PRs**: 437 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 144132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 4 | 459 | 165 | 0 | 0 | 1036 |
-| last60d | 2026-07-27 | 5 | 1013 | 212 | 0 | 0 | 2424 |
-| 90d | 2026-06-27 | 8 | 1532 | 246 | 0 | 0 | 4005 |
-| last180d | 2026-03-29 | 18 | 2066 | 276 | 0 | 0 | 7477 |
-| 360d | 2025-09-30 | 36 | 2206 | 303 | 0 | 0 | 13377 |
-| last720d | 2024-10-05 | 67 | 2215 | 331 | 0 | 0 | 25201 |
+| 30d | 2026-08-28 | 3 | 427 | 170 | 0 | 0 | 802 |
+| last60d | 2026-07-29 | 5 | 978 | 218 | 0 | 0 | 2125 |
+| 90d | 2026-06-29 | 8 | 1542 | 256 | 0 | 0 | 3686 |
+| last180d | 2026-03-31 | 18 | 2081 | 286 | 0 | 0 | 7277 |
+| 360d | 2025-10-02 | 36 | 2225 | 313 | 0 | 0 | 13167 |
+| last720d | 2024-10-07 | 67 | 2234 | 341 | 0 | 0 | 25227 |
 
 ## Release assets
 
@@ -72,6 +72,7 @@ Lowest-scoring checks:
 | [kotlin-compiler-2.4.20.spdx.json](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-compiler-2.4.20.spdx.json) | 146.1 KiB | `other` |
 | [kotlin-compiler-2.4.20.zip](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-compiler-2.4.20.zip) | 85.6 MiB | `other` |
 | [kotlin-compiler-2.4.20.zip.sha256](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-compiler-2.4.20.zip.sha256) | 64 B | `other` |
+| [kotlin-compiler-embeddable-2.4.20.jar](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-compiler-embeddable-2.4.20.jar) | 55.9 MiB | `other` |
 | [kotlin-native-image-linux-x86_64-2.4.20.spdx.json](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-linux-x86_64-2.4.20.spdx.json) | 12.9 KiB | `native/linux/x64` |
 | [kotlin-native-image-linux-x86_64-2.4.20.tar.gz](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-linux-x86_64-2.4.20.tar.gz) | 104.1 MiB | `native/linux/x64` |
 | [kotlin-native-image-linux-x86_64-2.4.20.tar.gz.sha256](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-linux-x86_64-2.4.20.tar.gz.sha256) | 64 B | `native/linux/x64` |
@@ -81,6 +82,10 @@ Lowest-scoring checks:
 | [kotlin-native-image-windows-x86_64-2.4.20.spdx.json](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-windows-x86_64-2.4.20.spdx.json) | 13.2 KiB | `native/win/x64` |
 | [kotlin-native-image-windows-x86_64-2.4.20.zip](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-windows-x86_64-2.4.20.zip) | 104.0 MiB | `native/win/x64` |
 | [kotlin-native-image-windows-x86_64-2.4.20.zip.sha256](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-windows-x86_64-2.4.20.zip.sha256) | 64 B | `native/win/x64` |
+| [kotlin-native-prebuilt-2.4.20-linux-x86_64.tar.gz](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-2.4.20-linux-x86_64.tar.gz) | 209.8 MiB | `native/linux/x64` |
+| [kotlin-native-prebuilt-2.4.20-macos-aarch64.tar.gz](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-2.4.20-macos-aarch64.tar.gz) | 276.7 MiB | `native/darwin/arm64` |
+| [kotlin-native-prebuilt-2.4.20-macos-x86_64.tar.gz](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-2.4.20-macos-x86_64.tar.gz) | 274.3 MiB | `native/darwin/x64` |
+| [kotlin-native-prebuilt-2.4.20-windows-x86_64.zip](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-2.4.20-windows-x86_64.zip) | 209.7 MiB | `native/win/x64` |
 | [kotlin-native-prebuilt-linux-x86_64-2.4.20.spdx.json](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-linux-x86_64-2.4.20.spdx.json) | 426 B | `native/linux/x64` |
 | [kotlin-native-prebuilt-linux-x86_64-2.4.20.tar.gz](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-linux-x86_64-2.4.20.tar.gz) | 209.8 MiB | `native/linux/x64` |
 | [kotlin-native-prebuilt-linux-x86_64-2.4.20.tar.gz.sha256](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-prebuilt-linux-x86_64-2.4.20.tar.gz.sha256) | 64 B | `native/linux/x64` |
@@ -104,4 +109,4 @@ Install metadata for kotlin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:10:48Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T04:27:53Z._
