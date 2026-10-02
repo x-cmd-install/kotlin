@@ -14,15 +14,15 @@ x install kotlin
 
 ## 代码洞察
 
-合计: **3,515,461** 行代码（覆盖前 5 种语言、共 **74835** 个文件）。
+合计: **3,520,946** 行代码（覆盖前 5 种语言、共 **74984** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Kotlin | 2,710,746 | 535,765 | 593,449 | 69473 |
-| Java | 539,084 | 71,612 | 100,976 | 4117 |
-| Json | 59,883 | 0 | 0 | 290 |
-| Swift | 55,056 | 1,048 | 3,373 | 386 |
-| CHeader | 32,257 | 28,047 | 11,112 | 569 |
+| Kotlin | 2,713,110 | 536,764 | 594,112 | 69613 |
+| Java | 541,934 | 71,642 | 101,526 | 4123 |
+| Json | 59,822 | 0 | 0 | 290 |
+| Swift | 55,193 | 1,065 | 3,406 | 388 |
+| CHeader | 32,266 | 28,057 | 11,118 | 570 |
 
 ## OpenSSF Scorecard 评分
 
@@ -43,27 +43,27 @@ x install kotlin
 ## 发布
 
 - **最新版本**: `v2.4.21-RC` (2026-09-07)
-- **最近提交**: 2026-09-30
-- **Release 含资产**: 30 个
+- **最近提交**: 2026-10-01
+- **Release 含资产**: 31 个
 
 ## 流行度
 
-- **Star**: 53,467 · **Fork**: 6,429 · **开放 issue**: 0 · **贡献者**: 845
+- **Star**: 53,473 · **Fork**: 6,430 · **开放 issue**: 0 · **贡献者**: 847
 
 ## 累计统计
 
-- **发布数**: 305 · **已合并 PR**: 4396 · **开放 PR**: 469 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 144369
+- **发布数**: 305 · **已合并 PR**: 4434 · **开放 PR**: 452 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 144456
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 4 | 457 | 205 | 0 | 0 | 879 |
-| last60d | 2026-08-02 | 6 | 1015 | 250 | 0 | 0 | 2204 |
-| 90d | 2026-07-03 | 9 | 1572 | 286 | 0 | 0 | 3765 |
-| last180d | 2026-04-04 | 18 | 2169 | 318 | 0 | 0 | 7356 |
-| 360d | 2025-10-06 | 37 | 2321 | 345 | 0 | 0 | 13246 |
-| last720d | 2024-10-11 | 67 | 2330 | 373 | 0 | 0 | 25250 |
+| 30d | 2026-09-02 | 4 | 465 | 189 | 0 | 0 | 975 |
+| last60d | 2026-08-03 | 6 | 1022 | 234 | 0 | 0 | 2305 |
+| 90d | 2026-07-04 | 9 | 1610 | 270 | 0 | 0 | 3866 |
+| last180d | 2026-04-05 | 18 | 2207 | 301 | 0 | 0 | 7457 |
+| 360d | 2025-10-07 | 37 | 2359 | 328 | 0 | 0 | 13347 |
+| last720d | 2024-10-12 | 67 | 2368 | 356 | 0 | 0 | 25307 |
 
 ## Release 资产
 
@@ -73,6 +73,7 @@ x install kotlin
 | [kotlin-compiler-2.4.20.zip](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-compiler-2.4.20.zip) | 85.6 MiB | `other` |
 | [kotlin-compiler-2.4.20.zip.sha256](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-compiler-2.4.20.zip.sha256) | 64 B | `other` |
 | [kotlin-compiler-embeddable-2.4.20.jar](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-compiler-embeddable-2.4.20.jar) | 55.9 MiB | `other` |
+| [kotlin-gradle-plugin-2.4.20.jar](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-gradle-plugin-2.4.20.jar) | 29.3 MiB | `other` |
 | [kotlin-native-image-linux-x86_64-2.4.20.spdx.json](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-linux-x86_64-2.4.20.spdx.json) | 12.9 KiB | `native/linux/x64` |
 | [kotlin-native-image-linux-x86_64-2.4.20.tar.gz](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-linux-x86_64-2.4.20.tar.gz) | 104.1 MiB | `native/linux/x64` |
 | [kotlin-native-image-linux-x86_64-2.4.20.tar.gz.sha256](https://github.com/JetBrains/kotlin/releases/download/v2.4.20/kotlin-native-image-linux-x86_64-2.4.20.tar.gz.sha256) | 64 B | `native/linux/x64` |
@@ -109,4 +110,4 @@ kotlin 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261001.yml` · 2026-10-01T04:54:12Z._
+_数据快照: `data/card/261002.yml` · 2026-10-02T04:47:26Z._
