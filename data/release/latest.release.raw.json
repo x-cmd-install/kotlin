@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 149585,
       "digest": "sha256:b762b136f2d985abe442bf237f884ac5f2dce583339e4becfbc1a1c6b0ec8c38",
-      "download_count": 70,
+      "download_count": 77,
       "created_at": "2026-10-08T08:57:59Z",
       "updated_at": "2026-10-08T08:57:59Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-compiler-2.4.21.spdx.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 89733618,
       "digest": "sha256:7cc140e76daf416a0424a5557f99afd7ca89ebd463ea1101261e3e01c33e75cd",
-      "download_count": 18472,
+      "download_count": 21328,
       "created_at": "2026-10-08T08:57:54Z",
       "updated_at": "2026-10-08T08:57:58Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-compiler-2.4.21.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:69012ce92719f8fa0524ca69954e2c36800edd76c8cd7f74965550e53650ac05",
-      "download_count": 2206,
+      "download_count": 2779,
       "created_at": "2026-10-08T08:57:58Z",
       "updated_at": "2026-10-08T08:57:58Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-compiler-2.4.21.zip.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 30714368,
       "digest": "sha256:5e2bf4a7fd6f8e6412c9f73d2197f7136ef155c27f25235bc88a0d288d1a00ce",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-10-08T09:24:13Z",
       "updated_at": "2026-10-08T09:24:15Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-gradle-plugin-2.4.21.jar"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 109190229,
       "digest": "sha256:fcd23e289fd775dc07da8ca5d321dfdb3d68e1f1114890d7d2dcaa815a2faab0",
-      "download_count": 48,
+      "download_count": 53,
       "created_at": "2026-10-08T08:58:54Z",
       "updated_at": "2026-10-08T08:58:59Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-image-linux-x86_64-2.4.21.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:52613af9d329d213c4a43ac74a0f659b026ada41880d4beec19b4ca0ebea3bb5",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-08T08:58:59Z",
       "updated_at": "2026-10-08T08:58:59Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-image-linux-x86_64-2.4.21.tar.gz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 107394652,
       "digest": "sha256:b3aa154a86c85602a94fcbebc7fe59ca11e711afb43df5cd00750fe274d929b2",
-      "download_count": 28,
+      "download_count": 30,
       "created_at": "2026-10-08T08:59:01Z",
       "updated_at": "2026-10-08T08:59:06Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-image-macos-aarch64-2.4.21.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 13552,
       "digest": "sha256:0e7bc20d754717be3053c935a85e952efb24c2b011b27237571c84e59e126fb8",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-08T08:59:16Z",
       "updated_at": "2026-10-08T08:59:16Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-image-windows-x86_64-2.4.21.spdx.json"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 109054133,
       "digest": "sha256:364960aeec787896902c802da4eae1b3707354c3bc180090da16a3ab75551701",
-      "download_count": 51,
+      "download_count": 53,
       "created_at": "2026-10-08T08:59:08Z",
       "updated_at": "2026-10-08T08:59:14Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-image-windows-x86_64-2.4.21.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 219973234,
       "digest": "sha256:4935d8c8da90a2d2a8ff51da7d2c264c0d6026e1d35a8f169e218d9209965678",
-      "download_count": 22,
+      "download_count": 25,
       "created_at": "2026-10-08T09:23:57Z",
       "updated_at": "2026-10-08T09:24:13Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-prebuilt-2.4.21-linux-x86_64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 287663611,
       "digest": "sha256:741799f163ad240f7fe54fae5334490c5a8a8fca9b9e9d39495db497b4f1763c",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-08T09:23:15Z",
       "updated_at": "2026-10-08T09:23:36Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-prebuilt-2.4.21-macos-x86_64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 219973234,
       "digest": "sha256:4935d8c8da90a2d2a8ff51da7d2c264c0d6026e1d35a8f169e218d9209965678",
-      "download_count": 135,
+      "download_count": 146,
       "created_at": "2026-10-08T08:58:00Z",
       "updated_at": "2026-10-08T08:58:10Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-prebuilt-linux-x86_64-2.4.21.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 426,
       "digest": "sha256:7932c091423d89526384f3118fda2289a8e08ccbc204e2862828ff2128a7c2e0",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-08T08:58:24Z",
       "updated_at": "2026-10-08T08:58:25Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-prebuilt-macos-aarch64-2.4.21.spdx.json"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 290160802,
       "digest": "sha256:bf4edb526d91e17d0862102f69250525d788e79011f86c2c64362749adf260ae",
-      "download_count": 267,
+      "download_count": 273,
       "created_at": "2026-10-08T08:58:12Z",
       "updated_at": "2026-10-08T08:58:23Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-prebuilt-macos-aarch64-2.4.21.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 219888442,
       "digest": "sha256:9b77b3972a05e35ddfa0dd9d50eb3ddc20618c9cc6cead1bc6f6d41d2cad24bd",
-      "download_count": 208,
+      "download_count": 217,
       "created_at": "2026-10-08T08:58:42Z",
       "updated_at": "2026-10-08T08:58:52Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-prebuilt-windows-x86_64-2.4.21.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:424f0469090be61fae10d40c5c564017184f8db6d0ffcba1209aae9b04895f60",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-10-08T08:58:52Z",
       "updated_at": "2026-10-08T08:58:53Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-prebuilt-windows-x86_64-2.4.21.zip.sha256"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 189123,
       "digest": "sha256:89dd3bfe6391ed74d1f86c794447ff868394d55609e720ea6d7ed033a0a2ecb2",
-      "download_count": 16,
+      "download_count": 18,
       "created_at": "2026-10-08T08:58:08Z",
       "updated_at": "2026-10-08T08:58:08Z",
       "browser_download_url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.21/maven-2.4.21-sha256.txt"
@@ -1158,8 +1158,8 @@
   "body": "## Changelog\r\n\r\n### Backend. Wasm\r\n\r\n- [`KT-89267`](https://youtrack.jetbrains.com/issue/KT-89267) K/Wasm: calling a (T) -> R lambda with an argument that isn't a T traps instead of throwing ClassCastException\r\n\r\n### JVM. Reflection\r\n\r\n- [`KT-89280`](https://youtrack.jetbrains.com/issue/KT-89280) NoSuchElementException in argumentsMakeSenseOnlyForMutableContainer for Java non-static inner class of generic outer class\r\n- [`KT-80710`](https://youtrack.jetbrains.com/issue/KT-80710) Reflection: change KCallable representation to avoid dependency on K1\r\n\r\n### JavaScript\r\n\r\n- [`KT-89449`](https://youtrack.jetbrains.com/issue/KT-89449) Kotlin/JS: Member names no longer minified in production\r\n- [`KT-89363`](https://youtrack.jetbrains.com/issue/KT-89363) KJS. Regular class with companion can't extend external class\r\n\r\n### Tools. Compiler plugins. Serialization\r\n\r\n- [`KT-89275`](https://youtrack.jetbrains.com/issue/KT-89275) Kotlin/Wasm: Invalid Wasm is emitted for a `@Serializable` generic class with a class upper bound\r\n\r\n### Tools. Gradle. Native\r\n\r\n- [`KT-89285`](https://youtrack.jetbrains.com/issue/KT-89285) SwiftPM import results in flooded log\r\n- [`KT-86251`](https://youtrack.jetbrains.com/issue/KT-86251) K/N: Flaky linkDebugTestLinuxX64 failure with \"truncated or malformed archive\" on libstdlib-cache.a\r\n\r\n### Tools. Scripts\r\n\r\n- [`KT-89247`](https://youtrack.jetbrains.com/issue/KT-89247) Kotlin Script: NoClassDefFoundError on 2nd execution with transitive dependency from imported script\r\n- [`KT-89220`](https://youtrack.jetbrains.com/issue/KT-89220) JSR-223: generic Java bindings break all subsequent `eval()` calls\r\n- [`KT-88458`](https://youtrack.jetbrains.com/issue/KT-88458) Audit closeable resource usage\r\n- [`KT-88453`](https://youtrack.jetbrains.com/issue/KT-88453) `VirtualFileScriptSource.text` leaks an unclosed file stream — script source file handle held until GC, blocks file deletion on Windows",
   "reactions": {
     "url": "https://api.github.com/repos/JetBrains/kotlin/releases/406599202/reactions",
-    "total_count": 51,
-    "+1": 12,
+    "total_count": 52,
+    "+1": 13,
     "-1": 0,
     "laugh": 4,
     "hooray": 11,
