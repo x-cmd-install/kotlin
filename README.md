@@ -14,15 +14,15 @@ x install kotlin
 
 ## Code insight
 
-Total: **3,564,130** lines of code across **75882** files in the top 5 languages.
+Total: **3,522,824** lines of code across **75975** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Kotlin | 2,745,869 | 545,556 | 600,579 | 70333 |
-| Java | 549,699 | 71,709 | 104,116 | 4279 |
-| Json | 61,626 | 0 | 0 | 293 |
-| Swift | 55,786 | 1,069 | 3,460 | 398 |
-| CHeader | 33,270 | 28,074 | 11,200 | 579 |
+| Kotlin | 2,749,199 | 546,201 | 601,229 | 70424 |
+| Java | 499,858 | 71,590 | 94,560 | 4263 |
+| Json | 66,433 | 0 | 0 | 306 |
+| Swift | 55,942 | 1,083 | 3,482 | 401 |
+| CHeader | 33,353 | 28,098 | 11,222 | 581 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.5.0-Beta2` (2026-10-08)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 53,497 · **Forks**: 6,450 · **Open issues**: 0 · **Contributors**: 855
+- **Stars**: 53,501 · **Forks**: 6,446 · **Open issues**: 0 · **Contributors**: 855
 
 ## Totals (cumulative)
 
-- **Releases**: 307 · **Merged PRs**: 4895 · **Open PRs**: 476 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 145569
+- **Releases**: 307 · **Merged PRs**: 4929 · **Open PRs**: 459 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 145644
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 556 | 188 | 0 | 0 | 1214 |
-| last60d | 2026-08-23 | 7 | 1127 | 245 | 0 | 0 | 2502 |
-| 90d | 2026-07-24 | 8 | 1648 | 285 | 0 | 0 | 3887 |
-| last180d | 2026-04-25 | 16 | 2554 | 327 | 0 | 0 | 7692 |
-| 360d | 2025-10-27 | 35 | 2812 | 356 | 0 | 0 | 13840 |
-| last720d | 2024-11-01 | 68 | 2827 | 386 | 0 | 0 | 25993 |
+| 30d | 2026-09-23 | 4 | 562 | 174 | 0 | 0 | 1281 |
+| last60d | 2026-08-24 | 7 | 1139 | 228 | 0 | 0 | 2570 |
+| 90d | 2026-07-25 | 8 | 1681 | 269 | 0 | 0 | 3957 |
+| last180d | 2026-04-26 | 16 | 2588 | 311 | 0 | 0 | 7762 |
+| 360d | 2025-10-28 | 35 | 2846 | 340 | 0 | 0 | 13910 |
+| last720d | 2024-11-02 | 68 | 2861 | 370 | 0 | 0 | 26065 |
 
 ## Release assets
 
@@ -101,6 +101,22 @@ Lowest-scoring checks:
 | [kotlin-native-prebuilt-windows-x86_64-2.4.21.zip.sha256](https://github.com/JetBrains/kotlin/releases/download/v2.4.21/kotlin-native-prebuilt-windows-x86_64-2.4.21.zip.sha256) | 64 B | `native/win/x64` |
 | [maven-2.4.21-sha256.txt](https://github.com/JetBrains/kotlin/releases/download/v2.4.21/maven-2.4.21-sha256.txt) | 184.7 KiB | `other` |
 
+## Distribution status
+
+Reported by **64** distros on [repology.org](https://repology.org/project/kotlin). **14** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.3.31` | ⚠️ outdated |
+| Debian 14 | `1.3.31` | ⚠️ outdated |
+| Debian 13 | `1.3.31` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.3.31` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.3.31` | ⚠️ outdated |
+| Arch | `2.4.21` | ✅ latest |
+| Homebrew | `2.4.21` | ✅ latest |
+| Nix unstable | `2.4.20` | ⚠️ outdated |
+| Void | `2.1.10` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for kotlin lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kotlin` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -110,4 +126,4 @@ Install metadata for kotlin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:55:56Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:01:48Z._
