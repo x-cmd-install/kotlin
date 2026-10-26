@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 53,512 · **Forks**: 6,451 · **Open issues**: 0 · **Contributors**: 855
+- **Stars**: 53,514 · **Forks**: 6,451 · **Open issues**: 0 · **Contributors**: 855
 
 ## Totals (cumulative)
 
-- **Releases**: 307 · **Merged PRs**: 4953 · **Open PRs**: 466 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 145731
+- **Releases**: 307 · **Merged PRs**: 4953 · **Open PRs**: 468 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 145731
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 3 | 544 | 173 | 0 | 0 | 980 |
-| last60d | 2026-08-26 | 7 | 1120 | 235 | 0 | 0 | 2341 |
-| 90d | 2026-07-27 | 8 | 1680 | 273 | 0 | 0 | 3698 |
-| last180d | 2026-04-28 | 16 | 2604 | 317 | 0 | 0 | 7618 |
-| 360d | 2025-10-30 | 34 | 2870 | 347 | 0 | 0 | 13782 |
-| last720d | 2024-11-04 | 68 | 2885 | 376 | 0 | 0 | 26151 |
+| 30d | 2026-09-26 | 3 | 541 | 175 | 0 | 0 | 980 |
+| last60d | 2026-08-27 | 6 | 1091 | 235 | 0 | 0 | 2341 |
+| 90d | 2026-07-28 | 8 | 1657 | 272 | 0 | 0 | 3698 |
+| last180d | 2026-04-29 | 16 | 2602 | 319 | 0 | 0 | 7618 |
+| 360d | 2025-10-31 | 34 | 2870 | 349 | 0 | 0 | 13782 |
+| last720d | 2024-11-05 | 67 | 2885 | 378 | 0 | 0 | 26125 |
 
 ## Release assets
 
@@ -126,4 +126,4 @@ Install metadata for kotlin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T03:53:57Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T03:58:13Z._
