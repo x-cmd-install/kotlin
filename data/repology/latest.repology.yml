@@ -1,15 +1,3 @@
-- repo: parabola
-  subrepo: extra
-  srcname: kotlin
-  binname: kotlin
-  visiblename: kotlin
-  version: 2.4.21
-  origversion: 2.4.21-1
-  status: newest
-  summary: Statically typed programming language with multiplatform support
-  licenses:
-    - Apache-2.0
-    - custom
 - repo: alt_p11
   srcname: kotlin
   binnames:
@@ -49,7 +37,7 @@
     - kotlin-tooling-core
   visiblename: kotlin
   version: 2.4.21
-  origversion: 2.4.21-alt1
+  origversion: 2.4.21-alt2
   status: newest
   summary: Kotlin compiler distribution
   maintainers:
@@ -72,6 +60,18 @@
     - custom
 - repo: artix
   subrepo: world
+  srcname: kotlin
+  binname: kotlin
+  visiblename: kotlin
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: newest
+  summary: Statically typed programming language with multiplatform support
+  licenses:
+    - Apache-2.0
+    - custom
+- repo: parabola
+  subrepo: extra
   srcname: kotlin
   binname: kotlin
   visiblename: kotlin
@@ -168,18 +168,6 @@
     - Apache-2
   categories:
     - lang
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: kotlin
-  binname: kotlin
-  visiblename: kotlin
-  version: 2.4.20
-  origversion: 2.4.20-1
-  status: outdated
-  summary: Statically typed programming language with multiplatform support
-  licenses:
-    - Apache-2.0
-    - custom
 - repo: manjaro_unstable
   subrepo: extra
   srcname: kotlin
@@ -273,14 +261,14 @@
     - Apache-2.0
   categories:
     - Unspecified
-- repo: devuan_unstable
-  subrepo: unstable/main
+- repo: parrot
+  subrepo: parrot/main
   srcname: kotlin
   binnames:
     - kotlin
   visiblename: kotlin
   version: 1.3.31
-  origversion: 1.3.31+ds1-8
+  origversion: 1.3.31+ds1-3
   status: outdated
   maintainers:
     - pkg-java-maintainers@lists.alioth.debian.org
@@ -311,56 +299,6 @@
   summary: Statically typed programming language for modern multiplatform applications
   licenses:
     - Apache-2.0
-  vulnerable: true
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: kotlin
-  binnames:
-    - kotlin
-  visiblename: kotlin
-  version: 1.3.31
-  origversion: 1.3.31+ds1-3
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - samyak.jn11@gmail.com
-    - sre4ever@free.fr
-    - sunil@medhas.org
-  categories:
-    - misc
-  vulnerable: true
-- repo: parrot
-  subrepo: parrot/main
-  srcname: kotlin
-  binnames:
-    - kotlin
-  visiblename: kotlin
-  version: 1.3.31
-  origversion: 1.3.31+ds1-3
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - samyak.jn11@gmail.com
-    - sre4ever@free.fr
-    - sunil@medhas.org
-  categories:
-    - misc
-  vulnerable: true
-- repo: deepin_25
-  subrepo: community
-  srcname: kotlin
-  binnames:
-    - kotlin
-  visiblename: kotlin
-  version: 1.3.31
-  origversion: 1.3.31+ds1-1
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - samyak.jn11@gmail.com
-    - sunil@medhas.org
-  categories:
-    - java
   vulnerable: true
 - repo: debian_12
   subrepo: bookworm/main
@@ -414,6 +352,39 @@
   vulnerable: true
 - repo: debian_unstable
   subrepo: sid/main
+  srcname: kotlin
+  binnames:
+    - kotlin
+  visiblename: kotlin
+  version: 1.3.31
+  origversion: 1.3.31+ds1-8
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - samyak.jn11@gmail.com
+    - sre4ever@free.fr
+    - sunil@medhas.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: deepin_25
+  subrepo: community
+  srcname: kotlin
+  binnames:
+    - kotlin
+  visiblename: kotlin
+  version: 1.3.31
+  origversion: 1.3.31+ds1-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - samyak.jn11@gmail.com
+    - sunil@medhas.org
+  categories:
+    - java
+  vulnerable: true
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: kotlin
   binnames:
     - kotlin
@@ -510,6 +481,23 @@
   categories:
     - dev-lang
   vulnerable: true
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: kotlin
+  binnames:
+    - kotlin
+  visiblename: kotlin
+  version: 1.3.31
+  origversion: 1.3.31+ds1-3
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - samyak.jn11@gmail.com
+    - sre4ever@free.fr
+    - sunil@medhas.org
+  categories:
+    - misc
+  vulnerable: true
 - repo: liguros_develop
   srcname: dev-lang/kotlin-bin
   visiblename: dev-lang/kotlin-bin
@@ -532,12 +520,25 @@
   srcname: kotlin
   binname: kotlin
   visiblename: kotlin
-  version: 2.4.10
-  origversion: 2.4.10-1
+  version: 1.9.10
+  origversion: 1.9.10-1
   status: outdated
-  summary: Statically typed programming language with multiplatform support
+  summary: Statically typed programming language that can interoperate with Java
   licenses:
-    - Apache-2.0
+    - APACHE
+    - custom
+  vulnerable: true
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: kotlin
+  binname: kotlin
+  visiblename: kotlin
+  version: 1.9.10
+  origversion: 1.9.10-1
+  status: outdated
+  summary: Statically typed programming language that can interoperate with Java
+  licenses:
+    - APACHE
     - custom
   vulnerable: true
 - repo: nix_stable_24_05
