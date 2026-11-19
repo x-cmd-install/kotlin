@@ -1,27 +1,38 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: kotlin
+- repo: scoop
+  subrepo: main
   binname: kotlin
   visiblename: kotlin
   version: 2.4.21
-  origversion: 2.4.21-1
+  origversion: null
   status: newest
-  summary: Statically typed programming language with multiplatform support
   licenses:
     - Apache-2.0
-    - custom
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: kotlin
-  binname: kotlin
-  visiblename: kotlin
+- repo: slackbuilds
+  srcname: development/kotlin
+  visiblename: development/kotlin
   version: 2.4.21
-  origversion: 2.4.21-1
+  origversion: null
   status: newest
-  summary: Statically typed programming language with multiplatform support
+  maintainers:
+    - willysr@slackbuilds.org
+  categories:
+    - development
+- repo: gentoo
+  srcname: dev-lang/kotlin-bin
+  visiblename: dev-lang/kotlin-bin
+  version: 2.4.20
+  origversion: null
+  status: legacy
+  summary: Statically typed language that targets the JVM and JavaScript
+  maintainers:
+    - xgqt@gentoo.org
   licenses:
     - Apache-2.0
-    - custom
+    - BSD
+    - MIT
+    - NPL-1.1
+  categories:
+    - dev-lang
 - repo: alt_p11
   srcname: kotlin
   binnames:
@@ -94,22 +105,6 @@
   licenses:
     - Apache-2.0
     - custom
-- repo: gentoo
-  srcname: dev-lang/kotlin-bin
-  visiblename: dev-lang/kotlin-bin
-  version: 2.4.20
-  origversion: null
-  status: legacy
-  summary: Statically typed language that targets the JVM and JavaScript
-  maintainers:
-    - xgqt@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - MIT
-    - NPL-1.1
-  categories:
-    - dev-lang
 - repo: gentoo
   srcname: dev-lang/kotlin-bin
   visiblename: dev-lang/kotlin-bin
@@ -192,6 +187,30 @@
   licenses:
     - Apache-2.0
     - custom
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: kotlin
+  binname: kotlin
+  visiblename: kotlin
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: newest
+  summary: Statically typed programming language with multiplatform support
+  licenses:
+    - Apache-2.0
+    - custom
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: kotlin
+  binname: kotlin
+  visiblename: kotlin
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: newest
+  summary: Statically typed programming language with multiplatform support
+  licenses:
+    - Apache-2.0
+    - custom
 - repo: nix_unstable
   srcname: kotlin
   visiblename: kotlin
@@ -231,25 +250,6 @@
   licenses:
     - Apache-2.0
     - custom
-- repo: scoop
-  subrepo: main
-  binname: kotlin
-  visiblename: kotlin
-  version: 2.4.21
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0
-- repo: slackbuilds
-  srcname: development/kotlin
-  visiblename: development/kotlin
-  version: 2.4.21
-  origversion: null
-  status: newest
-  maintainers:
-    - willysr@slackbuilds.org
-  categories:
-    - development
 - repo: t2
   srcname: kotlin
   visiblename: kotlin
@@ -285,53 +285,22 @@
     - Apache-2.0
   categories:
     - Unspecified
-- repo: nix_stable_24_05
+- repo: openmandriva_6_0
+  subrepo: main/release
   srcname: kotlin
-  visiblename: kotlin
-  version: 1.9.24
-  origversion: null
-  status: outdated
-  summary: General purpose programming language
-  maintainers:
-    - subhrajyoti12@gmail.com
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: nix_stable_24_11
-  srcname: kotlin
+  binnames:
+    - kotlin
   visiblename: kotlin
   version: 2.0.21
-  origversion: null
+  origversion: 2.0.21-1
   status: outdated
-  summary: General purpose programming language
+  summary: Statically typed programming language
   maintainers:
-    - subhrajyoti12@gmail.com
+    - bero@lindev.ch
   licenses:
     - Apache-2.0
-  vulnerable: true
-- repo: nix_stable_25_05
-  srcname: kotlin
-  visiblename: kotlin
-  version: 2.1.20
-  origversion: null
-  status: outdated
-  summary: General purpose programming language
-  maintainers:
-    - subhrajyoti12@gmail.com
-  licenses:
-    - Apache-2.0
-  vulnerable: true
-- repo: nix_stable_25_11
-  srcname: kotlin
-  visiblename: kotlin
-  version: 2.2.21
-  origversion: null
-  status: outdated
-  summary: General purpose programming language
-  maintainers:
-    - subhrajyoti12@gmail.com
-  licenses:
-    - Apache-2.0
+  categories:
+    - Unspecified
   vulnerable: true
 - repo: chromebrew
   srcname: kotlin
@@ -456,40 +425,6 @@
   categories:
     - lang
   vulnerable: true
-- repo: raspbian_stable
-  subrepo: main
-  srcname: kotlin
-  binnames:
-    - kotlin
-  visiblename: kotlin
-  version: 1.3.31
-  origversion: 1.3.31+ds1-3
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - samyak.jn11@gmail.com
-    - sre4ever@free.fr
-    - sunil@medhas.org
-  categories:
-    - misc
-  vulnerable: true
-- repo: raspbian_testing
-  subrepo: main
-  srcname: kotlin
-  binnames:
-    - kotlin
-  visiblename: kotlin
-  version: 1.3.31
-  origversion: 1.3.31+ds1-8
-  status: outdated
-  maintainers:
-    - pkg-java-maintainers@lists.alioth.debian.org
-    - samyak.jn11@gmail.com
-    - sre4ever@free.fr
-    - sunil@medhas.org
-  categories:
-    - misc
-  vulnerable: true
 - repo: gentoo
   srcname: dev-lang/kotlin-bin
   visiblename: dev-lang/kotlin-bin
@@ -515,6 +450,23 @@
   visiblename: kotlin
   version: 1.3.31
   origversion: 1.3.31+ds1-8
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - samyak.jn11@gmail.com
+    - sre4ever@free.fr
+    - sunil@medhas.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: raspbian_stable
+  subrepo: main
+  srcname: kotlin
+  binnames:
+    - kotlin
+  visiblename: kotlin
+  version: 1.3.31
+  origversion: 1.3.31+ds1-3
   status: outdated
   maintainers:
     - pkg-java-maintainers@lists.alioth.debian.org
@@ -575,6 +527,71 @@
   categories:
     - dev-lang
   vulnerable: true
+- repo: nix_stable_24_05
+  srcname: kotlin
+  visiblename: kotlin
+  version: 1.9.24
+  origversion: null
+  status: outdated
+  summary: General purpose programming language
+  maintainers:
+    - subhrajyoti12@gmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_24_11
+  srcname: kotlin
+  visiblename: kotlin
+  version: 2.0.21
+  origversion: null
+  status: outdated
+  summary: General purpose programming language
+  maintainers:
+    - subhrajyoti12@gmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: kotlin
+  visiblename: kotlin
+  version: 2.1.20
+  origversion: null
+  status: outdated
+  summary: General purpose programming language
+  maintainers:
+    - subhrajyoti12@gmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: nix_stable_25_11
+  srcname: kotlin
+  visiblename: kotlin
+  version: 2.2.21
+  origversion: null
+  status: outdated
+  summary: General purpose programming language
+  maintainers:
+    - subhrajyoti12@gmail.com
+  licenses:
+    - Apache-2.0
+  vulnerable: true
+- repo: raspbian_testing
+  subrepo: main
+  srcname: kotlin
+  binnames:
+    - kotlin
+  visiblename: kotlin
+  version: 1.3.31
+  origversion: 1.3.31+ds1-8
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - samyak.jn11@gmail.com
+    - sre4ever@free.fr
+    - sunil@medhas.org
+  categories:
+    - misc
+  vulnerable: true
 - repo: nix_stable_26_05
   srcname: kotlin
   visiblename: kotlin
@@ -586,23 +603,6 @@
     - subhrajyoti12@gmail.com
   licenses:
     - Apache-2.0
-  vulnerable: true
-- repo: openmandriva_6_0
-  subrepo: main/release
-  srcname: kotlin
-  binnames:
-    - kotlin
-  visiblename: kotlin
-  version: 2.0.21
-  origversion: 2.0.21-1
-  status: outdated
-  summary: Statically typed programming language
-  maintainers:
-    - bero@lindev.ch
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
   vulnerable: true
 - repo: openmandriva_rolling
   subrepo: main/release
@@ -639,7 +639,7 @@
     - Unspecified
   vulnerable: true
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: kotlin
   binnames:
     - kotlin
@@ -656,7 +656,7 @@
     - misc
   vulnerable: true
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: kotlin
   binnames:
     - kotlin
