@@ -14,12 +14,12 @@ x install kotlin
 
 ## Code insight
 
-Total: **3,478,189** lines of code across **76372** files in the top 5 languages.
+Total: **3,482,783** lines of code across **76447** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Kotlin | 2,709,702 | 546,522 | 595,722 | 70819 |
-| Java | 488,668 | 69,007 | 94,314 | 4236 |
+| Kotlin | 2,712,465 | 547,150 | 596,231 | 70894 |
+| Java | 489,198 | 69,122 | 94,374 | 4236 |
 | Json | 66,954 | 0 | 0 | 311 |
 | Swift | 58,992 | 1,083 | 3,674 | 418 |
 | CHeader | 33,846 | 28,098 | 11,576 | 588 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.5.0-RC` (2026-10-08)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 53,584 · **Forks**: 6,465 · **Open issues**: 0 · **Contributors**: 871
+- **Stars**: 53,597 · **Forks**: 6,469 · **Open issues**: 0 · **Contributors**: 871
 
 ## Totals (cumulative)
 
-- **Releases**: 308 · **Merged PRs**: 5530 · **Open PRs**: 546 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 147160
+- **Releases**: 308 · **Merged PRs**: 5561 · **Open PRs**: 551 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 147264
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 534 | 227 | 0 | 0 | 1436 |
-| last60d | 2026-09-20 | 5 | 1222 | 293 | 0 | 0 | 3060 |
-| 90d | 2026-08-21 | 8 | 1758 | 331 | 0 | 0 | 4406 |
-| last180d | 2026-05-23 | 16 | 3081 | 405 | 0 | 0 | 8683 |
-| 360d | 2025-11-24 | 34 | 3439 | 432 | 0 | 0 | 14771 |
-| last720d | 2024-11-29 | 66 | 3461 | 462 | 0 | 0 | 26784 |
+| 30d | 2026-10-21 | 2 | 545 | 230 | 0 | 0 | 1573 |
+| last60d | 2026-09-21 | 5 | 1230 | 298 | 0 | 0 | 3197 |
+| 90d | 2026-08-22 | 8 | 1789 | 336 | 0 | 0 | 4543 |
+| last180d | 2026-05-24 | 16 | 3112 | 409 | 0 | 0 | 8820 |
+| 360d | 2025-11-25 | 34 | 3470 | 437 | 0 | 0 | 14908 |
+| last720d | 2024-11-30 | 66 | 3492 | 467 | 0 | 0 | 26854 |
 
 ## Release assets
 
@@ -126,4 +126,4 @@ Install metadata for kotlin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T06:36:15Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T06:23:38Z._
